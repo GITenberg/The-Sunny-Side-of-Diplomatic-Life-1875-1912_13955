@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2321
     wikipedia: http://en.wikipedia.org/wiki/Lillie_de_Hegermann-Lindencrone
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13955#The-Sunny-Side-of-Diplomatic-Life-1875-1912
 gutenberg_issued: '2004-11-04'
 gutenberg_type: Text
 identifiers:
