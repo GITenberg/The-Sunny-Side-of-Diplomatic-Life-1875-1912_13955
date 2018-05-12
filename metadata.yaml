@@ -1,0 +1,34 @@
+_repo: The-Sunny-Side-of-Diplomatic-Life-1875-1912_13955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hegermann-Lindencrone, L. de (Lillie de)
+    aliases:
+    - Lindencrone, Lillie Moulton
+    - Hegermann-Lindencrone, Lillie Greenough Moulton
+    - Hagermann-Lindencrone, Anna Lillie Greenough, Fru
+    - Moulton, Lillie Greenough
+    - Greenough, Lillie
+    birthdate: 1844
+    deathdate: 1928
+    gutenberg_agent_id: '2321'
+    url: http://www.gutenberg.org/2009/agents/2321
+    wikipedia: http://en.wikipedia.org/wiki/Lillie_de_Hegermann-Lindencrone
+description: ''
+gutenberg_issued: '2004-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Social life and customs'
+- !lcsh 'Courts and courtiers'
+- !lcc 'D'
+title: The Sunny Side of Diplomatic Life, 1875-1912
+url: http://www.gutenberg.org/ebooks/13955
